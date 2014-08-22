@@ -22,7 +22,6 @@
  "author": "Camptocamp",
  "depends": ["sale", "stock"],  # with sale_stock here the bug doesn't show up
  "test": [
-     'test/setup_user.yml',
      'test/bug.yml',
  ],
  }
