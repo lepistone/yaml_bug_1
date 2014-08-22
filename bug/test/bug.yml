@@ -1,0 +1,6 @@
+-
+  !context
+  uid: 'res_users_emma'
+-
+  !record {model: res.company, id: base.main_company}:
+    security_lead: 2.0
